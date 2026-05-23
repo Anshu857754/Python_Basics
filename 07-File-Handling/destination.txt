@@ -1,0 +1,6 @@
+Hello kya hal h ?
+this is a new linewithout overwritting
+without overwritting append operation take place
+first-line 
+second-line 
+third-line
